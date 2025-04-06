@@ -14,6 +14,8 @@ img {
     display: flex;
     margin: 10px 15px 10px 15px;
     background-color:rgb(111, 110, 110);
+    border: 2px solid;
+    box-shadow:3px 3px 10px black;
     border-radius: 10px;
 }
    
@@ -54,24 +56,57 @@ h1 {
     text-align: center;
     color: black;
 }
+
+h2 {
+    color: chartreuse;
+}
     
 p {
     text-align: center;
     font-size: 18px;
 }
 
-#p1 {
-    font-size: 18px;
-}
-
-h2{
-    background-color: rgb(172, 239, 106);
+.card1 {
+    background-color: rgb(158, 163, 153);
+    margin: 10px 15px 10px 15px;
+    border: 2px solid ;
+    box-shadow:3px 3px 10px black;
     color: black;
-    font: 16px;
     text-align: center;
 }
- 
+
+
+
+.card2 {
+    background-color:  rgb(158, 163, 153);
+    margin: 10px 15px 10px 15px;
+    border: 2px solid ;
+    box-shadow:3px 3px 10px black;
+    color: black;
+    text-align: center;
+}
+
+
+.card3 {
+    background-color:  rgb(158, 163, 153);
+    margin: 10px 15px 10px 15px;
+    border:2px solid;
+    box-shadow:3px 3px 10px black;
+    color: black;
+    text-align: center;
+}
+
+footer {
+
+    margin-top: 100px;
+    background-color: rgb(165, 231, 99);
+}
+
+
+   
+
     
+
     
 
 
